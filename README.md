@@ -3,3 +3,5 @@
 -- Ajit Mane (ajitmane36@gmail.com)
 
 Welcome to the Data Science Python Practice Repository! This repository is designed to provide a platform for practicing Python programming in the field of data science. It offers a wide range of code snippets and exercises to help you enhance your Python skills, with a particular focus on data analysis, machine learning, and data visualization.
+
+**This repository can be used to reinforce knowledge and skills in data science, and you can also add examples of use cases in data science with new algorithms, approaches, or tools. Este es mi cambio Profesro Millan**
